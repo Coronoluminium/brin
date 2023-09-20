@@ -1,0 +1,4 @@
+dar = 32
+der = 35
+
+nimfus = dar*der**3
